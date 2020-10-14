@@ -7,3 +7,5 @@ weather application using vanilla JS
 React first application
 
 thanks
+
+Done my changes
