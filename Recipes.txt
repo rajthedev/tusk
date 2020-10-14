@@ -3,4 +3,7 @@ welcome to raj page
 portfolio
 web projects -> personal portfolio and todo project
 
+weather application using vanilla JS
+React first application
+
 thanks
